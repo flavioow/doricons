@@ -18,7 +18,10 @@ export default {
   plugins: [
     resolve(),
     commonjs(),
-    babel({ babelHelpers: 'bundled' }),
+    babel({
+      babelHelpers: 'bundled',
+      exclude: 'node_modules/**'
+    }),
     terser(),
     globImport()
   ],
