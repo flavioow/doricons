@@ -23,10 +23,10 @@ const Doricon = ({ name }) => {
         return null
     }
     return (
-        <span
-            dangerouslySetInnerHTML={{ __html: IconComponent.default }}
-            className="doricon"
-        />
+        React.createElement('span', {
+            dangerouslySetInnerHTML: { __html: IconComponent.default },
+            className: 'doricon'
+        })
     )
 }
 
