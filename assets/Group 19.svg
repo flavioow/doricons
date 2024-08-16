@@ -1,0 +1,15 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" fill="#131214"/>
+<path d="M125 100H325L425 200V300L325 400H125V300H275L325 250L275 200H125V100Z" fill="url(#paint0_diamond_138_41)"/>
+<path d="M125 200L175 250L125 300L75 250L125 200Z" fill="url(#paint1_diamond_138_41)"/>
+<defs>
+<radialGradient id="paint0_diamond_138_41" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(75 250) scale(350 1633.33)">
+<stop stop-color="#9419DF"/>
+<stop offset="1" stop-color="#500E79"/>
+</radialGradient>
+<radialGradient id="paint1_diamond_138_41" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(75 250) scale(350 1633.33)">
+<stop stop-color="#9419DF"/>
+<stop offset="1" stop-color="#500E79"/>
+</radialGradient>
+</defs>
+</svg>
